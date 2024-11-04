@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'Alfa Slab One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/6NUQ8FmMKwSEKjnm5-4v-4Jh6dU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/P5sazZiAbNrN8SB3lQQX7PncwdsXJQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/P5sEzZiAbNrN8SB3lQQX7Pnc8dk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Patrick Hand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/LDI1apSQOAYtSuYWp8ZhfYeMWQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rancho';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/46kulbzmXjLaqZRlbQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8fFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkfFg.ttf) format('truetype');
+}
